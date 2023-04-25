@@ -1,0 +1,108 @@
+#top-pic {
+  width: 100%;
+}
+.navbar {
+  height: 75px;
+  padding: 20px;
+  width: 100%;
+  font-size: 30px;
+  margin: 0px 0px 50px 0px;
+}
+.top-container {
+  position: relative;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+.text {
+  position: absolute;
+  margin: 400px 25%;
+  width: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+  white-space: nowrap;
+  color: White;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h5 {
+  font-family: Arial, Helvetica, sans-serif;
+
+  color: darkgray;
+  font-size: 8px;
+}
+p {
+  font-size: 20px;
+}
+/* CSS */
+.button-54 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  top: 50px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000;
+  cursor: pointer;
+  border: 3px solid;
+  padding: 0.25em 0.5em;
+  box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,
+    5px 5px 0px 0px;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-54:active {
+  box-shadow: 0px 0px 0px 0px;
+  top: 5px;
+  left: 5px;
+}
+
+@media (min-width: 768px) {
+  .button-54 {
+    padding: 0.25em 0.75em;
+  }
+}
+
+.mid-container {
+  width: 50%;
+
+  margin: 100px 25%;
+  white-space: nowrap;
+  position: absolute;
+}
+.about-team {
+  position: absolute;
+  margin: 400px 50px 100px 200px;
+}
+
+#copy {
+  position: absolute;
+  float: right;
+  margin: -200px 220px;
+}
+.what-div {
+  position: absolute;
+  margin: 1000px 200px 500px 900px;
+  white-space: nowrap;
+}
+#copy-2 {
+  float: left;
+  position: absolute;
+  margin: -250px -1110px;
+}
+hr {
+  padding: 20px;
+}
+
+.bottom {
+  position: absolute;
+  margin: 50px;
+}
+.container-p-4 {
+  margin: 98% 35% 100px;
+  width: 50%;
+  padding: 100px;
+}
